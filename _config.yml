@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Political History Network
+description: Description Here.
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://kkashin.github.com/long-haul
 baseurl: "/long-haul"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
+   github: kkashin
+   twitter: kostyakashin
+   facebook: kkashin
    email: brimaidesigns@gmail.com
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-"
