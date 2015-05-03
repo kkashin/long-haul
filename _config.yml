@@ -2,7 +2,7 @@ title: Political History Network
 description: Description here.
 
 url: http://kkashin.github.io/polhistorynetwork/
-baseurl: ""
+baseurl: "http://kkashin.github.io/polhistorynetwork/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
