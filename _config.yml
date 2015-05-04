@@ -1,8 +1,8 @@
 title: Politics & History Network
 description: Politics. History. Data.
 
-url: http://kkashin.github.io/polhistorynetwork/
-baseurl: "http://kkashin.github.io/polhistorynetwork"
+url: http://polhistorynetwork.org
+baseurl: "http://polhistorynetwork.org"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
