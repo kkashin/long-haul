@@ -3,9 +3,7 @@ layout: default
 title: Participants
 ---
 
-<div class="post">
-	<h1 class="pageTitle">Participants</h1>
-	<ul>
-		<li>Daniel Ziblatt</li>
-  	</ul>
+<div class="home">
+	<h1>Participants</h1>
+	<h2> TBA </h2>
 </div>

@@ -1,5 +1,5 @@
-title: Political History Network
-description: Description here.
+title: Politics & History Network
+description: Politics. History. Data.
 
 url: http://kkashin.github.io/polhistorynetwork/
 baseurl: "http://kkashin.github.io/polhistorynetwork"
@@ -24,6 +24,28 @@ navigation:
  - title: Contact
    url: /contact
 
+organizers:
+ - name: Carles Boix
+   position:  Robert Garrett Professor of Politics and Public Affairs
+   affiliation: Princeton University
+   url: http://www.princeton.edu/~cboix/
+ - name: Isabela Mares
+   position: Professor of Political Science
+   affiliation: Columbia University
+   url: http://isabelamares.org/
+ - name: David Stasavage
+   position: Professor of Politics
+   affiliation: New York University
+   url: http://politics.as.nyu.edu/object/DavidStasavage
+ - name: Steven Wilkinson
+   position: Nilekani Professor of India and South Asian Studies
+   affiliation: Yale University
+   url: http://stevenwilkinson.commons.yale.edu/
+ - name: Daniel Ziblatt
+   position: Professor of Government
+   affiliation: Harvard University
+   url: http://scholar.harvard.edu/dziblatt/home
+   
 social:
    email: ziblatt@gov.harvard.edu
 
