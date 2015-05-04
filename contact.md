@@ -5,7 +5,7 @@ title: Contact
 
 <div id="home">
   <h1>Contact</h1>
-  <form action="http://formspree.io/dziblatt@gov.harvard.edu">
+  <form action="http://formspree.io/dziblatt@gov.harvard.edu" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
